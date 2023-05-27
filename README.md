@@ -18,5 +18,5 @@ Streamline your file management process with ease! Created with PowerShell and W
  - If using the latter option to open a pop-up File Explorer window, please do this:
    - Copy {CTRL-C} the folder path from the File Explorer pop-up, then close this window. Please do not close the applet itself!
    - Paste the folder path into the "Destination Folder" text box.
-3. Click the "Copy Files" button. If all inputs provided are valid, the files should successfully be copied over. Please note that no files will be deleted from the original source location.
+3. Click the "Copy Files" button. If all inputs are valid, the files should successfully be copied over. Please note that no files will be deleted from the original source location.
   
