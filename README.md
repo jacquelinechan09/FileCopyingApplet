@@ -13,7 +13,7 @@ Streamline your file management process with ease! Created with PowerShell and W
 5. Within PowerShell ISE, the graphical user interface should automatically open in a new tab!
 
 ## How to use:
-1. Multiple file paths can be taken by the "Source Files" text box. Click on the "Select Source" button to choose one or more files to copy over.
+1. Multiple file paths can be taken by the "Source Files" text box. Click on the "Select Source" button to choose one or more files to copy over. Once you press "Open" (in the pop-up File Explorer window), this text box will be autopopulated.
 2. Only one destination folder is permitted (in the future, this is a feature that I am looking to expand upon!). In the "Destination Folder" text box, feel free to directly type in the path. Alternatively, use the "Get Destination" button to navigate to the desired folder. 
  - If using the latter option to open a pop-up File Explorer window, please do this:
    - Copy {CTRL-C} the folder path from the File Explorer pop-up, then close this window. Please do not close the applet itself!
